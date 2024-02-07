@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
-<h3 align="center">👋 HA third-year student at Delhi Technological University. Currently immersed in the world of technology, I am learning and making projects on MERN (MongoDB, Express.js, React.js, Node.js) stack and learning DSA in C++.</h3>
+<h3 align="center">👋 A third-year student at Delhi Technological University. Currently immersed in the world of technology, I am learning and making projects on MERN (MongoDB, Express.js, React.js, Node.js) stack and learning DSA in C++.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-sharma13" alt="rahul-sharma13" /></a> </p>
 
