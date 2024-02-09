@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
 <h3 align="center"> A third-year student at Delhi Technological University. Currently immersed in the world of technology, I am learning and making projects on MERN (MongoDB, Express.js, React.js, Node.js) stack and learning DSA in C++.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-sharma13&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-sharma13" /> </p>
 
 - 📫 How to reach me **rahulharit13@gmail.com**
 
-<a href = "mailto:rahulharit13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kraken_3102" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="kraken_3102" height="30" width="40" /></a><a href="https://linkedin.com/in/rahul-sharma-a21916226" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rahul-sharma-a21916226" height="30" width="40" /></a><a href="https://www.leetcode.com/rahul_sharma31" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="rahul_sharma31" height="30" width="40" /></a><a href="https://instagram.com/rahul.sharma6701" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="rahul.sharma6701" height="30" width="40" /></a></p>
