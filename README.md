@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/kraken_3102" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="kraken_3102" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahul-sharma-a21916226" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rahul-sharma-a21916226" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahul_sharma31" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="rahul_sharma31" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul.sharma6701" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="rahul.sharma6701" height="30" width="40" /></a></p>
+<a href="https://instagram.com/rahul.sharma6701" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="rahul.sharma6701" height="30" width="40" /></a>
+<i className="ci ci-leetcode ci-2x"></i>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
