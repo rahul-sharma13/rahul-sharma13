@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kraken_3102" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="kraken_3102" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul-sharma-a21916226" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rahul-sharma-a21916226" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahul_sharma31" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="rahul_sharma31" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul.sharma6701" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="rahul.sharma6701" height="30" width="40" /></a>
+<a href="https://twitter.com/kraken_3102" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+<a href="https://linkedin.com/in/rahul-sharma-a21916226" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+<a href="https://www.leetcode.com/rahul_sharma31" target="blank"><img align="" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="rahul_sharma31" height="40" width="40" /></a>
+<a href="https://instagram.com/rahul.sharma6701" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -73,18 +73,10 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-sharma13&langs_count=8&theme=dark" alt=rahul-sharma13 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rahul-sharma13&show_icons=true&locale=en&theme=dark" alt="rahul-sharma13" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-sharma13&theme=dark" alt="rahul-sharma13" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/rahul-sharma13">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahul-sharma13&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahul-sharma13&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahul-sharma13&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahul-sharma13&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul-sharma13&theme=2077" height="180em" />
+<div align="">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-sharma13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-sharma13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-sharma13&radius=16&theme=nightowl&area=false&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
