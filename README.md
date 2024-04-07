@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/kraken_3102" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
 <a href="https://linkedin.com/in/rahul-sharma-a21916226" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-<a href="https://www.leetcode.com/rahul_sharma31" target="blank"><img align="" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="rahul_sharma31" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/rahul-sharma13" target="blank"><img align="" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="rahul_sharma31" height="40" width="40" /></a>
 <a href="https://instagram.com/rahul.sharma6701" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 </p>
 
