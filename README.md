@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
-<h3 align="center"> A third-year student at Delhi Technological University. Currently immersed in the world of technology, I am learning and making projects on MERN (MongoDB, Express.js, React.js, Node.js) stack and learning DSA in C++.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-sharma13&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-sharma13" /> </p>
+<h3 align="center"> A final-year student at Delhi Technological University. Currently immersed in the world of technology, I have experience of buidling projects on MERN (MongoDB, Express.js, React.js, Node.js) stack, NextJs, Sql and currently learning DSA in C++.</h3>
 
 - 📫 How to reach me **rahulharit13@gmail.com**
 
