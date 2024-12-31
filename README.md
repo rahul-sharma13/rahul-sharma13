@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center"> A final-year student at Delhi Technological University. Currently immersed in the world of technology, I have experience of buidling projects on MERN (MongoDB, Express.js, React.js, Node.js) stack, NextJs, Sql and currently learning DSA in C++.</h3>
 
 - 📫 How to reach me **rahulharit13@gmail.com**
-- - 🔭 I’m currently working at kreaitor.ai
+- 🔭 I’m currently **working at kreaitor.ai**
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
